@@ -1,6 +1,3 @@
-1.	Why do programmers prefer dark mode?
-Because light attracts bugs!
-
 2.	What did the Java code say to the C code?
 “You’ve got no class!”
 
